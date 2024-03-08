@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 2be4a970920e8b04b881e387fd1d964a
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 842679201035959410
+    second: Printer Drawer 3|Circle.000|Circle.000|SekundenAction
+  - first:
+      74: -1627310844313295592
+    second: Printer Drawer 3|Circle.000|Circle.000|Stunden
+  - first:
+      74: -7078377962220728046
+    second: Printer Drawer 3|Circle.037|Circle.016|SekundenAction
+  - first:
+      74: 72696108218838614
+    second: Printer Drawer 3|Circle.037|Circle.016|Stunden
+  - first:
+      74: -4505864920535027775
+    second: Printer Drawer 3|Cube.064|Cube|SekundenAction
+  - first:
+      74: -1479049300389760656
+    second: Printer Drawer 3|Cube.064|Cube|Stunden
+  - first:
+      74: 4821259386898104646
+    second: Printer Drawer 3|End pin.001
+  - first:
+      74: 7441179608750804589
+    second: Printer Drawer 3|Hemi|Hemi|SekundenAction
+  - first:
+      74: 5054811208890473811
+    second: Printer Drawer 3|Hemi|Hemi|Stunden
+  - first:
+      74: 6060162657411565669
+    second: Printer Drawer 3|Minuten|Minuten|SekundenAction
+  - first:
+      74: -8488010247272738889
+    second: Printer Drawer 3|Minuten|Minuten|Stunden
+  - first:
+      74: 1192394669149401994
+    second: Printer Drawer 3|Sekunden|Sekunden|SekundenAction
+  - first:
+      74: -9048145653465389246
+    second: Printer Drawer 3|Sekunden|Sekunden|Stunden
+  - first:
+      74: -582947169931970513
+    second: Printer Drawer 3|Stunden|Stunden|SekundenAction
+  - first:
+      74: 5659884124676178830
+    second: Printer Drawer 3|Stunden|Stunden|Stunden
+  - first:
+      74: 667790019513308713
+    second: Printer Drawer 2|Circle.000|Circle.000|SekundenAction
+  - first:
+      74: -28673855064562383
+    second: Printer Drawer 2|Circle.000|Circle.000|Stunden
+  - first:
+      74: 6358446658555551869
+    second: Printer Drawer 2|Circle.037|Circle.016|SekundenAction
+  - first:
+      74: -6493743067267749287
+    second: Printer Drawer 2|Circle.037|Circle.016|Stunden
+  - first:
+      74: -4816999371360628943
+    second: Printer Drawer 2|Cube.064|Cube|SekundenAction
+  - first:
+      74: -1154887237067461577
+    second: Printer Drawer 2|Cube.064|Cube|Stunden
+  - first:
+      74: 4037412267131962086
+    second: Printer Drawer 2|End pin.001
+  - first:
+      74: -6507176898849046811
+    second: Printer Drawer 2|Hemi|Hemi|SekundenAction
+  - first:
+      74: -5141987706323019831
+    second: Printer Drawer 2|Hemi|Hemi|Stunden
+  - first:
+      74: -7562678296961414482
+    second: Printer Drawer 2|Minuten|Minuten|SekundenAction
+  - first:
+      74: -3117049656787492791
+    second: Printer Drawer 2|Minuten|Minuten|Stunden
+  - first:
+      74: -7664935714288674882
+    second: Printer Drawer 2|Sekunden|Sekunden|SekundenAction
+  - first:
+      74: -8321950819621963231
+    second: Printer Drawer 2|Sekunden|Sekunden|Stunden
+  - first:
+      74: 8131559635270820993
+    second: Printer Drawer 2|Stunden|Stunden|SekundenAction
+  - first:
+      74: 6227476218917874391
+    second: Printer Drawer 2|Stunden|Stunden|Stunden
+  - first:
+      74: -8898576959426520293
+    second: Printer Drawer 1|Circle.000|Circle.000|SekundenAction
+  - first:
+      74: -8185474913494549130
+    second: Printer Drawer 1|Circle.000|Circle.000|Stunden
+  - first:
+      74: 3849388211705550824
+    second: Printer Drawer 1|Circle.037|Circle.016|SekundenAction
+  - first:
+      74: 3779513982947198304
+    second: Printer Drawer 1|Circle.037|Circle.016|Stunden
+  - first:
+      74: 372697698812534161
+    second: Printer Drawer 1|Cube.064|Cube|SekundenAction
+  - first:
+      74: 9061732731544258992
+    second: Printer Drawer 1|Cube.064|Cube|Stunden
+  - first:
+      74: -525368458862857432
+    second: Printer Drawer 1|End pin.001
+  - first:
+      74: -4129707604932659042
+    second: Printer Drawer 1|Hemi|Hemi|SekundenAction
+  - first:
+      74: -4360740103478673479
+    second: Printer Drawer 1|Hemi|Hemi|Stunden
+  - first:
+      74: 2689357958058133686
+    second: Printer Drawer 1|Minuten|Minuten|SekundenAction
+  - first:
+      74: 6961227647470766959
+    second: Printer Drawer 1|Minuten|Minuten|Stunden
+  - first:
+      74: -3321587643037588400
+    second: Printer Drawer 1|Sekunden|Sekunden|SekundenAction
+  - first:
+      74: -4511347729261060341
+    second: Printer Drawer 1|Sekunden|Sekunden|Stunden
+  - first:
+      74: -8127929337699619587
+    second: Printer Drawer 1|Stunden|Stunden|SekundenAction
+  - first:
+      74: -6347772947903778836
+    second: Printer Drawer 1|Stunden|Stunden|Stunden
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
